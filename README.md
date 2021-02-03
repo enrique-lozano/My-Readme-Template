@@ -41,6 +41,9 @@ make example2
 ## Next updates 🔜
 (if necessary)
 
+## Issues 🤕
+(if necessary)
+
 ## Want to collaborate? 🙋🏻
 Feel free to improve and optimize the existing code. To contribute to the project, read the previous points carefully and do the next steps with the project:
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
@@ -56,3 +59,8 @@ Feel free to contact the developer if you have any questions or suggestions abou
 Some screenshots of the project working if necessary:
 
 <img src="/screenshots/sc1.png" alt="Screenshot 1" width="50%" height="50%" />
+
+
+## -----------EXTRA CONTENT---------
+### Beautiful commits
+Emojis make everything nice, so you just have to include one of these in each of the commits you make:
