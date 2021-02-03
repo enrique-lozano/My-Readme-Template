@@ -65,8 +65,13 @@ Some screenshots of the project working if necessary:
 ### Beautiful commits
 Emojis make everything nice, so you just have to include one of these in each of the commits you make:
 > Translation improvements 🔣
+
 > Code optimizations 🛠️
+
 > Improved functionality 🛠️
+
 > Working in XXX 🛠️
+
 > Functionality implemented ✔️
+
 > Design improvements ✏️
