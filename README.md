@@ -1,5 +1,5 @@
 # My-Readme-Template 💥💯
-Brief description of a few lines about the project, technologies used in the development...
+Brief description of a few lines about the project, technologies used in the development... Use emoticons in each of the readMe titles, so that they correctly represent the section.
 
 ## Run it 🚀
 You could try our demo at https://link.com and that it's! 
@@ -10,11 +10,43 @@ First way:
 ```sh
 npm install my-crazy-module --save
 ```
-
 Second way:
 > npm install my-crazy-module --save
 
-__If you want to highlight something important you just have to put it in bold__
+__If you want to highlight something important you just have to put it in bold__ . Keep in mind that **bold can be done with a double low bar or with a double asterisk**
 
 Some warnings could be placed like this:
-__Warning:__ *The app is not responsive design yet, so desktop users will have an ugly view of the app. For a better view go to the config of your browser and select the developer options (in Chrome pressing Ctrl+Shift+I) and select your favourite device.*
+__Warning:__ *This is a cursive warning, using one asterisk.*
+
+## Extra sections
+Here you can add all the sections that occur to you in relation to your project. Some examples are:
+- Usage example 💡
+- Where the data is stored? 🕵️
+- What is the X Algorithm? 🧠
+
+## For developers 💻
+In this section we will put the extra commands and tasks that people who want to collaborate in the project will have to perform. For example, installation of programs, packages, dependencies ...
+
+```sh
+make example
+npm test
+```
+
+And later, install the package in https://example.com and run
+```sh
+make example2
+```
+
+## Next updates 🔜
+(if necessary)
+
+## Want to collaborate? 🙋🏻
+Feel free to improve and optimize the existing code. To contribute to the project, read the previous points carefully and do the next steps with the project:
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+## Need help ❓
+Feel free to contact the developer if you have any questions or suggestions about the project or how you can help with it.
