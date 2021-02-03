@@ -51,3 +51,8 @@ Feel free to improve and optimize the existing code. To contribute to the projec
 
 ## Need help ❓
 Feel free to contact the developer if you have any questions or suggestions about the project or how you can help with it.
+
+## Screenshots
+Some screenshots of the project working if necessary:
+
+<img src="/screenshots/sc1.png" alt="Screenshot 1" width="50%" height="50%" />
