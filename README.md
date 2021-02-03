@@ -16,6 +16,7 @@ Second way:
 __If you want to highlight something important you just have to put it in bold__ . Keep in mind that **bold can be done with a double low bar or with a double asterisk**
 
 Some warnings could be placed like this:
+
 __Warning:__ *This is a cursive warning, using one asterisk.*
 
 ## Extra sections
