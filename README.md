@@ -74,4 +74,6 @@ Emojis make everything nice, so you just have to include one of these in each of
 
 > Functionality implemented ✔️
 
+> Class/File added ✔️
+
 > Design improvements ✏️
