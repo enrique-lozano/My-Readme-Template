@@ -77,3 +77,7 @@ Emojis make everything nice, so you just have to include one of these in each of
 > Class/File added ✔️
 
 > Design improvements ✏️
+
+> App deploy updated 🚀
+
+> New release 🚀
